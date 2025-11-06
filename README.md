@@ -62,6 +62,7 @@ source venv/bin/activate # Linux / macOS
 ### 2. Instalar dependências e o pacote
 
 ```bash
+pip install -r requirements.txt
 pip install -e .
 ```
 
