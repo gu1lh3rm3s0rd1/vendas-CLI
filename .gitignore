@@ -1,7 +1,6 @@
 venv/
 __pycache__/
 .pytest_cache/
-__init__.py
 vendas_cli.egg-info/
 relatorio.json
 relatorio.csv
